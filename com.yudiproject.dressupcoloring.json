@@ -41,7 +41,7 @@
 			"Interstitial"      : "ADMOB",
 			"Reward"            : "ADMOB",
 
-			"TestAds"           : true,
+			"TestAds"           : false,
 			"NoAdsMode"         : false,
 
 			"UseTimeBanner"         : false,
