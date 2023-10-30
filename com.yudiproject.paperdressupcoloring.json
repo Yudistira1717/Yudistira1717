@@ -1,22 +1,22 @@
 {
 
-	"Version"                   : 1.1,
+	"Version"                   : 1.2,
 
 
 	"AdsManager":
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-8575204904100554/2790519564",
-			"InterstitialId"    : "ca-app-pub-8575204904100554/5047310956",
-			"RewardId"          : "ca-app-pub-8575204904100554/2090544311"
+			"BannerId"          : "ca-app-pub-6043776477551464/6480437772",
+			"InterstitialId"    : "ca-app-pub-6043776477551464/9976829658",
+			"RewardId"          : "ca-app-pub-6043776477551464/4204546652"
 		},
 
 		"Applovin":
 		{
-			"SdkKey"            : "wGgouK8ceE3PagHWGasnC2yCDkIGIQeeNA3BRgRrEU7eIT8oLkhBccaHZAsgcr8A7_l9rD52E8bduALTWITuWO",
-			"BannerId"          : "e4f05e0a644fc2bb",
-			"InterstitialId"    : "7aaadff61af72862",
+			"SdkKey"            : "NTw17TyDPM1cF9skqPTEx5rT5lwzvrCS9EpN0XWWxln28eLkXpTWv9v29ofKQ8waruBzN_wQ2Tt_PTZDqN8E_e",
+			"BannerId"          : "c88f0d53d7afeb80",
+			"InterstitialId"    : "1b02938a8de7e5b0",
 			"RewardId"          : "0182b0bf55edb8fd"
 		},
 
@@ -41,7 +41,7 @@
 			"Interstitial"      : "ADMOB",
 			"Reward"            : "ADMOB",
 
-			"TestAds"           : true,
+			"TestAds"           : false,
 			"NoAdsMode"         : false,
 
 			"UseTimeBanner"         : false,
@@ -69,8 +69,8 @@
 			"Short"             : "Your Short",
 			"Message"           : "Your Message",
 
-			"Icon"              : "https://drive.google.com/uc?export=download&id=1OzZW9JeVxkcnTiA5Z-xlrAdmmqmGhzwR",
-			"Banner"            : "https://drive.google.com/uc?export=download&id=1PdotW3Qw8pGKTEHA4kqduYasrWBopZ8h",
+			"Icon"              : "",
+			"Banner"            : "",
 			"Url"               : "Url Apps",
 
 			"Time"              : 10,
