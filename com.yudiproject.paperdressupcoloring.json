@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.2,
+	"Version"                   : 1.3,
 
 
 	"AdsManager":
@@ -9,7 +9,7 @@
 		{
 			"BannerId"          : "ca-app-pub-6043776477551464/6480437772",
 			"InterstitialId"    : "ca-app-pub-6043776477551464/9976829658",
-			"RewardId"          : "ca-app-pub-6043776477551464/4204546652"
+			"RewardId"          : ""
 		},
 
 		"Applovin":
@@ -17,7 +17,7 @@
 			"SdkKey"            : "NTw17TyDPM1cF9skqPTEx5rT5lwzvrCS9EpN0XWWxln28eLkXpTWv9v29ofKQ8waruBzN_wQ2Tt_PTZDqN8E_e",
 			"BannerId"          : "c88f0d53d7afeb80",
 			"InterstitialId"    : "1b02938a8de7e5b0",
-			"RewardId"          : "0182b0bf55edb8fd"
+			"RewardId"          : ""
 		},
 
 		"UnityAds":
