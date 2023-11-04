@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.4,
+	"Version"                   : 1.5,
 
 
 	"AdsManager":
@@ -16,7 +16,7 @@
 		{
 			"SdkKey"            : "NTw17TyDPM1cF9skqPTEx5rT5lwzvrCS9EpN0XWWxln28eLkXpTWv9v29ofKQ8waruBzN_wQ2Tt_PTZDqN8E_e",
 			"BannerId"          : "e92498bac040ec7f",
-			"InterstitialId"    : "1b02938a8de7e5b0",
+			"InterstitialId"    : "b4e183244cf45c51",
 			"RewardId"          : ""
 		},
 
@@ -37,7 +37,7 @@
 			"APPLOVIN"          : "Backup UnityAds",
 			"UNITY"             : "No Backup",
 
-			"Banner"            : "APPLOVIN",
+			"Banner"            : "ADMOB",
 			"Interstitial"      : "ADMOB",
 			"Reward"            : "ADMOB",
 
