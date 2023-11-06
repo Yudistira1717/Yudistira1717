@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.5,
+	"Version"                   : 1.6,
 
 
 	"AdsManager":
@@ -37,8 +37,8 @@
 			"APPLOVIN"          : "Backup UnityAds",
 			"UNITY"             : "No Backup",
 
-			"Banner"            : "ADMOB",
-			"Interstitial"      : "ADMOB",
+			"Banner"            : "APPLOVIN",
+			"Interstitial"      : "APPLOVIN",
 			"Reward"            : "ADMOB",
 
 			"TestAds"           : false,
