@@ -1,6 +1,6 @@
 {
 
-	"Version"                   : 1.1,
+	"Version"                   : 1.2,
 
 
 	"AdsManager":
@@ -42,7 +42,7 @@
 			"Reward"            : "ADMOB",
 
 			"TestAds"           : true,
-			"NoAdsMode"         : false,
+			"NoAdsMode"         : true,
 
 			"UseTimeBanner"         : false,
 			"TimeBanner"            : 0.5,
