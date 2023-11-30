@@ -7,16 +7,16 @@
 	{		  
 		"Admob":
 		{
-			"BannerId"          : "ca-app-pub-6043776477551464/6480437772",
-			"InterstitialId"    : "ca-app-pub-6043776477551464/9976829658",
+			"BannerId"          : " ",
+			"InterstitialId"    : " ",
 			"RewardId"          : ""
 		},
 
 		"Applovin":
 		{
-			"SdkKey"            : "NTw17TyDPM1cF9skqPTEx5rT5lwzvrCS9EpN0XWWxln28eLkXpTWv9v29ofKQ8waruBzN_wQ2Tt_PTZDqN8E_e",
-			"BannerId"          : "e92498bac040ec7f",
-			"InterstitialId"    : "b4e183244cf45c51",
+			"SdkKey"            : " ",
+			"BannerId"          : " ",
+			"InterstitialId"    : " ",
 			"RewardId"          : ""
 		},
 
@@ -41,8 +41,8 @@
 			"Interstitial"      : "ADMOB",
 			"Reward"            : "ADMOB",
 
-			"TestAds"           : false,
-			"NoAdsMode"         : false,
+			"TestAds"           : true,
+			"NoAdsMode"         : true,
 
 			"UseTimeBanner"         : false,
 			"TimeBanner"            : 0.5,
